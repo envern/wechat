@@ -1,0 +1,18 @@
+{
+  "name": "envern/wechat",
+  "description": "学习微信，并练习封装的微信接口",
+  "type": "project",
+  "autoload": {
+    "psr-4": {
+      "Envern\\WeChat\\": "src/"
+    }
+  },
+  "authors": [
+    {
+      "name": "envern",
+      "email": "envern@qq.com"
+    }
+  ],
+  "minimum-stability": "dev",
+  "require": {}
+}
