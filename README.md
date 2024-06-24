@@ -5,6 +5,17 @@
 封装了微信公众号、企业微信、微信支付、微信小程序。
 学习教程，请查看 [微信官网](https://weixin.qq.com/)
 
+### 安装
+
+```
+使用composer安装
+composer require envern/wechat:1.0.*
+
+或者在你的composer.json里require部分添加
+"envern/wechat": "1.0.*"
+
+```
+
 ### 微信配置
 
 ```
